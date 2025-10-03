@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=120&section=header" alt="header"/>
 
+<!-- Professional Tech-Themed Banner for Quantum Research Engineer -->
+<p align="center">
+    <img src="YOUR_TECH_THEMED_BANNER_IMAGE_URL_HERE" alt="Hanu Dixit Quantum Tech Theme" width="700"/>
+</p>
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=336699&width=480&lines=Hello%2C+it's+Hanu+Dixit;Quantum+Research+Engineer;IT+Project+Coordinator" alt="Hanu Dixit Typing SVG"/>
 </a>
@@ -14,15 +19,22 @@ Beyond quantum research, I bring experience as an IT Project Coordinator and Bus
 
 ---
 
-### 💻 Main Skills
+#### Tools & Platforms
 
-**Technical Skills:**
-[![Technical Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio)](https://skillicons.dev)
+[![Tools & Platforms Skills](https://skillicons.dev/icons?i=git,github,jira,salesforce,sql,excel,gcp,aws,azure,ps,blender)](https://skillicons.dev) <!-- Added GCP/AWS/Azure as general cloud/workspace, PS, Blender -->
 <br>
-*Detailed:* JIRA, Analytics, Confluence, Salesforce CRM, LeadSquared CRM, Python, SQL, Advanced Excel, MS Project, Airtable, Google Workspace, Microsoft 365.
+*Development & Version Control:* Git, GitHub.
+*Project Management & CRM:* JIRA, Salesforce CRM, LeadSquared CRM, MS Project.
+*Data & Analytics:* SQL, Advanced Excel, Airtable.
+*Collaboration & Productivity:* Google Workspace, Microsoft 365, Confluence.
+*Design & Prototyping:* Photoshop, Blender (for prototyping/visuals if applicable).
 
-**Business & Management Skills:**
-Project Management, Product Management, Sales and Business Development, Client Relationship Management, Cross-Functional Collaboration, Process Optimization, Team Leadership and Coaching, Strategic Planning, Agile and Scrum Methodologies, Data-Driven Decision Making, Effective Communication, Presentation Skills.
+#### Business & Management
+
+*   **Project & Product Management:** Project Management, Product Management, Agile and Scrum Methodologies.
+*   **Business Analysis:** Process Optimization, Data-Driven Decision Making, Strategic Planning.
+*   **Sales & Client Relations:** Sales and Business Development, Client Relationship Management.
+*   **Leadership & Communication:** Cross-Functional Collaboration, Team Leadership and Coaching, Effective Communication, Presentation Skills.
 
 ---
 
