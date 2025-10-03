@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=120&section=header" alt="header"/>
 
-<!-- Professional Tech-Themed Banner for Quantum Research Engineer -->
-<p align="center">
-    <img src="YOUR_TECH_THEMED_BANNER_IMAGE_URL_HERE" alt="Hanu Dixit Quantum Tech Theme" width="700"/>
-</p>
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=336699&width=480&lines=Hello%2C+it's+Hanu+Dixit;Quantum+Research+Engineer;IT+Project+Coordinator" alt="Hanu Dixit Typing SVG"/>
 </a>
