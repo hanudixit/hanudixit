@@ -1,29 +1,36 @@
+<!-- Banner -->
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Hanu Dixit — Quantum-safe SMPC • Data Science • Healthcare" width="1280" height="320">
+  <img src="assets/profile-banner.svg" alt="Banner: Hanu Dixit — Quantum-safe SMPC • Cybersecurity • PM" />
 </p>
 
-# Hanu Dixit — Quantum-safe SMPC • Data Science • Healthcare
+# Hanu Dixit — Quantum-safe SMPC • Cybersecurity • PM
 
-**I bridge cutting-edge research in quantum-safe secure multi-party computation (SMPC) into production-ready data science and healthcare solutions, ensuring compliance and real-world impact.**
+I bridge **research → product** in quantum-safe secure multi-party computation (SMPC) and security tools—turning papers, intel workflows, and compliance needs into working demos, dashboards, and docs.
 
-### Focus Areas
+**Value pillars**
+- **Research → Product:** rapid prototyping, clean docs, measurable demos  
+- **Security & Compliance:** SMPC, PSI, secure aggregation, **NIST 800-171** awareness  
+- **Program Management:** scope → plan → ship; KPIs, audit trails, investor-ready visibility
 
-*   **Research → Product:** Translating advanced cryptographic research and data science models into tangible, user-centric applications and products. My background as a Product Manager and Business Analyst informs a pragmatic, outcome-driven approach.
-*   **Security & Compliance:** Architecting systems with a deep understanding of data security, privacy, and regulatory compliance, including NIST 800-171 controls and healthcare data regulations.
-*   **Healthcare Data:** Specializing in the secure and ethical application of data science techniques within healthcare, focusing on patient privacy and actionable insights.
+<!-- Minimal badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/hanudixit?style=flat" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/actions/workflow/status/hanudixit/sentinel-demo/build.yml?label=build" alt="CI build status for sentinel-demo" />
+  <img src="https://img.shields.io/github/languages/top/hanudixit/SENTINEL-QSMPC" alt="Top language for SENTINEL-QSMPC" />
+</p>
 
-### My Work
+## Featured Work
+- **SENTINEL-QSMPC** — Mission Control dashboard with **PSI/Secure Aggregation** flows and a compliance panel; built to show investor-grade KPIs and auditability. ROI: faster trust-building in security reviews with runnable demos.  
+  Repo: https://github.com/hanudixit/SENTINEL-QSMPC
 
-[![GitHub followers](https://img.shields.io/github/followers/hanudixit?style=flat)](https://github.com/hanudixit) [![Build Status](https://img.shields.io/github/actions/workflow/status/hanudixit/sentinel-demo/build.yml?label=build)](https://github.com/hanudixit/sentinel-demo/actions) [![Top Language](https://img.shields.io/github/languages/top/hanudixit/SENTINEL-QSMPC)](https://github.com/hanudixit/SENTINEL-QSMPC)
+- **sentinel-demo** — 60-second **PSI hashed-set** demo for cybersecurity: intersect two hashed indicator lists (e.g., credential dumps / watchlists) using client-only code; CI runs the demo to prove “it ships.”  
+  Repo: https://github.com/hanudixit/sentinel-demo
 
-#### Featured Work
+## Roadmap & Collabs
+Public Issues + Project board across repos. Contributions welcome: propose features (e.g., **NIST 800-171 control mapping**, **Investor Mode KPIs**), open small PRs, and attach short clips or GIFs with alt text.
 
-*   **SENTINEL-QSMPC:** A proof-of-concept framework for quantum-safe secure multi-party computation in healthcare settings, aiming to enable collaborative data analytics without revealing underlying patient data.
-*   **sentinel-demo:** A client-side demonstration of Private Set Intersection (PSI) using hashed patient IDs, showcasing how secure computation concepts can be quickly prototyped and validated. This micro-demo highlights the "research-to-product" pathway with a focus on healthcare data privacy.
+## Contact
+- Email: **hanudixit.2017@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/hanukdixit07**
 
-### Roadmap & Collaborations
-
-I am actively building out features and exploring new applications for secure computation and data science in healthcare. Check out my public roadmap and issues to see what's next and how you can contribute or collaborate. Your insights are welcome!
-
-**Contact:** hanudixit.2017[at]gmail[dot]com
-**LinkedIn:** [Hanu Dixit](https://www.linkedin.com/in/hanukdixit07)
+> Accessibility: images include alt text; headings are ordered; color is never the sole carrier of meaning.
