@@ -93,7 +93,6 @@ You can find my publications on Medium and Dev.to, where I share career insights
 ### 🌐 Connect with Me
 
 *   **Email:** hanudixit.2017@gmail.com
-*   **Phone:** (410)-469-0032
 *   **LinkedIn:** [linkedin.com/in/hanukdixit07](https://www.linkedin.com/in/hanukdixit07)
 *   **Location:** Baltimore, MD
 
