@@ -6,7 +6,7 @@ Quantum-focused Research Engineer & Data Scientist. I prototype **quantum-safe S
 **Stack:** Python • TypeScript/Vite • GitHub Actions • JIRA  
 **Open to:** Research/PM roles in security + healthcare data
 
-**Contact:** hanudixit.2017[at]gmail[dot]com • [LinkedIn](https://www.linkedin.com/in/hanukdixit07)
+**Contact:** hanudixit.2017@gmail.com • [LinkedIn](https://www.linkedin.com/in/hanukdixit07)
 
 ## Featured Work
 - [SENTINEL-QSMPC](https://github.com/hanudixit/SENTINEL-QSMPC) — Mission Control dashboard with mock **PSI** & **Secure Aggregation** flows and a compliance panel (NIST 800-171).
